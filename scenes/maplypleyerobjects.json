@@ -1,0 +1,22 @@
+[{
+        "ob": "lake",
+        "pos": [2, 1],
+        "player": 1
+    },
+    {
+        "ob": "cave",
+        "pos": [5, 7],
+        "player": 1
+    },
+    {
+        "ob": "wiotrok",
+        "pos": [8, 3],
+        "player": 1
+    },
+    {
+        "ob": "lake",
+        "pos": [12, 10],
+        "player": 1
+    }
+
+]
